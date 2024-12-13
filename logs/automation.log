@@ -1,0 +1,33 @@
+15:50:49.0221 [main] INFO  api.test.UserTests - ****** Creating User ********
+ 15:50:51.0992 [main] INFO  api.test.UserTests - ****** Created User ********
+ 15:50:52.0011 [main] INFO  api.test.UserTests - ****** Get User info by username ********
+ 15:50:53.0211 [main] INFO  api.test.UserTests - ****** User info are captured ********
+ 15:50:53.0221 [main] INFO  api.test.UserTests - ****** Update user by username ********
+ 15:50:54.0834 [main] INFO  api.test.UserTests - ******  User is updated ********
+ 15:50:54.0842 [main] INFO  api.test.UserTests - ******* Delete user by username *********
+ 15:50:55.0699 [main] INFO  api.test.UserTests - ******* User is deleted *********
+ 16:37:33.0847 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+ 16:37:36.0693 [main] INFO  api.test.UserTests2 - ****** Created User ********
+ 16:37:36.0709 [main] INFO  api.test.UserTests2 - ****** Get User info by username ********
+ 16:37:37.0514 [main] INFO  api.test.UserTests2 - ****** User info are captured ********
+ 16:37:37.0524 [main] INFO  api.test.UserTests2 - ****** Update user by username ********
+ 16:37:39.0378 [main] INFO  api.test.UserTests2 - ******  User is updated ********
+ 16:37:39.0385 [main] INFO  api.test.UserTests2 - ******* Delete user by username *********
+ 16:37:40.0580 [main] INFO  api.test.UserTests2 - ******* User is deleted *********
+ 17:09:40.0791 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+ 17:09:43.0337 [main] INFO  api.test.UserTests2 - ****** Created User ********
+ 17:09:43.0345 [main] INFO  api.test.UserTests2 - ****** Get User info by username ********
+ 17:09:44.0251 [main] INFO  api.test.UserTests2 - ****** User info are captured ********
+ 17:09:44.0253 [main] INFO  api.test.UserTests2 - ****** Update user by username ********
+ 17:09:46.0435 [main] INFO  api.test.UserTests2 - ******  User is updated ********
+ 17:09:46.0437 [main] INFO  api.test.UserTests2 - ******* Delete user by username *********
+ 17:09:47.0638 [main] INFO  api.test.UserTests2 - ******* User is deleted *********
+ 17:31:58.0973 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+ 17:32:00.0867 [main] INFO  api.test.UserTests2 - ****** Created User ********
+ 17:32:00.0874 [main] INFO  api.test.UserTests2 - ****** Get User info by username ********
+ 17:32:01.0428 [main] INFO  api.test.UserTests2 - ****** User info are captured ********
+ 17:32:01.0431 [main] INFO  api.test.UserTests2 - ****** Update user by username ********
+ 17:32:02.0599 [main] INFO  api.test.UserTests2 - ******  User is updated ********
+ 17:32:02.0601 [main] INFO  api.test.UserTests2 - ******* Delete user by username *********
+ 17:32:03.0336 [main] INFO  api.test.UserTests2 - ******* User is deleted *********
+ 
